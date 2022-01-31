@@ -1,0 +1,4 @@
+html {
+  cursor: url('./images/cursor_pointed.PNG'), pointer;
+  cursor: url('./images/cursor_rounded.PNG'), rounded;
+  }
