@@ -5,7 +5,7 @@ a:hover{
   cursor: url('./images/cursor_pointed.png'), auto;
 }
 body { 
-align-items: center;
+justify-content: center;
 }
 main {
   background-color: #5ce1e6 
