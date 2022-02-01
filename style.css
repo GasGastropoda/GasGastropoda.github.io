@@ -1,6 +1,6 @@
 html {
-  cursor: url('./images/cursor_rounded.png'), default;
+  cursor: url('./images/cursor_rounded.png'), auto;
 }
-.png {
+a:hover{
   cursor: url('./images/cursor_pointed.png'), auto;
 }
