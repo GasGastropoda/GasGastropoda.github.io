@@ -2,3 +2,5 @@ html {
   cursor: url('./images/cursor_pointed.png'), default;
   cursor: url('./images/cursor_rounded.png'), pointer;
 }
+.pointer{
+  cursor: pointer;
