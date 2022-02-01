@@ -1,4 +1,6 @@
 html {
   cursor: url('./images/cursor_rounded.png'), default;
 }
-
+li{
+  cursor: url('./images/cursor_pointed.png'), pointer;
+}
