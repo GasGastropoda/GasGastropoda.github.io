@@ -1,9 +1,9 @@
 html {
-  cursor: url('./images/cursor_pointed.png'), pointer;
+  cursor: url('./images/cursor_pointed.png'), auto;
   cursor: url('./images/cursor_rounded.png'), default;
 }
 .pointer{
-  cursor: pointer;
+  cursor: auto;
 }
 .default{
   cursor: default;
