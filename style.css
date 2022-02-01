@@ -1,4 +1,6 @@
 html {
   cursor: url('./images/cursor_rounded.png'), default;
 }
-
+.png {
+  cursor: url('./images/cursor_pointed.png'), auto;
+}
