@@ -4,8 +4,8 @@ html {
 a:hover{
   cursor: url('./images/cursor_pointed.png'), auto;
 }
-body { 
-justify-content: center;
+div_a { 
+text-align: center;
 }
 main {
   background-color: #5ce1e6 
