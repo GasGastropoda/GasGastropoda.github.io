@@ -2,8 +2,7 @@ html {
   cursor: url('./images/cursor_pointed.png'), auto;
   cursor: url('./images/cursor_rounded.png'), default;
 }
-.pointer{
-  cursor: auto;
+li { cursor: pointer; }
 }
 .default{
   cursor: default;
