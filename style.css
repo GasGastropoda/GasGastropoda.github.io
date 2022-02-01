@@ -1,7 +1,7 @@
 html {
   cursor: url('./images/cursor_rounded.png'), default;
 }
-html {
+body {
    cursor: url('./images/cursor_pointed.png'), auto;
 }
 .default{
