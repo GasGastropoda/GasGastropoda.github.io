@@ -16,7 +16,7 @@ table.center {
 }
 body {
   text-align:center;
-  background-image: url{'./images/backgroundwebsite.png');
+  background-image: url('./images/backgroundwebsite.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
