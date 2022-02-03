@@ -16,17 +16,11 @@ table.center {
 }
 body {
   text-align:center;
-  }
-.container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  width: 100%;
-  height: 100%;
-  background-image: url('./image/backgroundwebsite.png');
+  background-image: url{'./images/backgroundwebsite.png');
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: cover;
-}
+  }
+
 
   
