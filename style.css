@@ -1,5 +1,10 @@
 html {
   cursor: url('./images/cursor_rounded.png'), auto;
+  min-height: 100%;
+  background-image: url('./images/backgroundwebsite.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 a:hover{
   cursor: url('./images/cursor_pointed.png'), auto;
@@ -14,13 +19,7 @@ table.center {
   margin-left: auto;
   margin-right: auto;
 }
-body {
-  text-align:center;
-  background-image: url('./images/backgroundwebsite.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  }
+
 
 
   
