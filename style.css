@@ -12,14 +12,46 @@ a:hover{
 div_a { 
 text-align: center;
 }
-main {
-  background-color: #5ce1e6 
-}
 table.center {
   margin-left: auto;
   margin-right: auto;
 }
-
-
-
-  
+.information_box_blue {
+background: #482af7;
+margin: 10px;
+padding: 15px 20px 15px 20px;
+border-radius: 5px;
+text-align: left;
+opacity: 0.9;
+}
+.information_box_blue_text {
+  line-height:32px;
+  font-size:20px;
+  color: #fff;
+}
+.information_box_yellow {
+  background: #ffd300;
+  margin: 10px;
+  padding: 15px 20px 15px 20px;
+  border-radius: 5px;
+  text-align: left;
+  opacity: 0.9; 
+}
+.information_box_yellow_text {
+  line-height:32px;
+  font-size:20px;
+  color:black;
+}
+ .information_box_pink {
+   background: #ff00d3;
+   margin: 10px;
+   padding: 15px 20px 15px 20px;
+   border-radius: 5px;
+   text-align: left;
+   opacity: 0.9;
+ } 
+.information_box_pink_text {
+  line-height:32px;
+  font-size:20px;
+  color:white;
+}
