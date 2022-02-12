@@ -56,10 +56,11 @@ opacity: 0.9;
   color:white;
 }
 
-.information_column_yellow
+.information_column_yellow {
   background: #ffd300;
   float: left;
   width: 100px;
   height: 100px;
   margin: 10px; 
   padding: 15px 20px 15px 20px;
+}
