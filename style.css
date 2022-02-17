@@ -56,12 +56,23 @@ opacity: 0.9;
   color:white;
 }
 
-.information_column_yellow {
+.information_column_yellow_left {
   background: #ffd300;
   float: left;
-  width: 800px;
-  height: 800px;
+  width: 450px;
+  height: 530px;
   margin: 10px; 
+  padding: 15px 20px 15px 20px;
+  border-radius: 5px;
+  opacity: 0.9;
+}
+
+.information_column_yellow_right {
+  background: #ffd300;
+  float: right;
+  width: 450px;
+  height: 530px;
+  margin: 10px;
   padding: 15px 20px 15px 20px;
   border-radius: 5px;
   opacity: 0.9;
