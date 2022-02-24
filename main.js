@@ -1,2 +1,2 @@
 console.log('it works!');
-ScrollReveal().reveal('headline');
+ScrollReveal().reveal('information_box_blue');
