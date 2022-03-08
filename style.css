@@ -40,7 +40,7 @@ opacity: 0.9;
 .information_box_yellow_text {
   line-height:32px;
   font-size:20px;
-  color:black;
+  color:#000000;
 }
  .information_box_pink {
    background: #ff00d3;
@@ -53,7 +53,7 @@ opacity: 0.9;
 .information_box_pink_text {
   line-height:32px;
   font-size:20px;
-  color:white;
+  color:#fff;
 }
 
 .information_column_yellow_left {
